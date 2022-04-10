@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Игрушка Сеня",
+        "cost": 110,
+        "photo": "https://sun1-17.userapi.com/impg/00kgZsxcpeyhtKP30lD6XpWcqWaPVu8gjG-y2w/lAOrUWcDFFc.jpg?size=0x179&crop=0.145,0,0.667,1&quality=95&sign=67760446813ed150cbf3d1fc52597595",
+        "description": "Плюшевая игрушка «Сеня».\n\nВысота: 24 см\nШирина: 24 см"
+    },
+    {
+        "id": 2,
+        "name": "Игрушка Пинг",
+        "cost": 110,
+        "photo": "https://sun1-54.userapi.com/impg/mwHPD_KPcCXU1US1PT7HkUve8jN0YNumuyLzkg/B11Flseq1Zc.jpg?size=0x179&crop=0.024,0,0.953,1&quality=95&sign=d41959f867f5192558a9e0d1896fb1f9",
+        "description": "Орущий Пинг создан радовать вас каждую минуту."
+    },
+    {
+        "id": 3,
+        "name": "Игрушка Персик",
+        "cost": 85,
+        "photo": "https://sun1-28.userapi.com/impg/HfnDD4DSz-22D4m5CFneyXKrg_Di9qe_9hFR9Q/f_-pgQqGSFE.jpg?size=0x179&crop=0.094,0,0.667,1&quality=95&sign=264b6f3ef14c37fd3be378ce491ee120",
+        "description": "Плюшевая игрушка «Персик».\nВысота: 18 см\nШирина: 20 см"
+    },
+    {
+        "id": 4,
+        "name": "Игрушка Спаркс",
+        "cost": 120,
+        "photo": "https://sun1-25.userapi.com/impg/XQFY98mS7EdkpPxxd-sOebcDCCQ905f7ssGG7Q/1YWSLJUyyqY.jpg?size=0x179&crop=0.184,0.016,0.651,0.976&quality=95&sign=34a55da70bdafeeb4c46e302fc135b83",
+        "description": "Плюшевая игрушка «Спаркс».\n\nВысота: 30 см\nШирина: 20 см"
+    }
+]
